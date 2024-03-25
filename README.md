@@ -4,8 +4,8 @@ Ten different modelling groups submitted results to the ISOMIP+ model intercompa
 
 ### How it works:
 - Suggested figures for analysis are in the [Issues](https://github.com/misomip/isomip-plus/issues) section. Feel free to assign yourself a figure, suggest ideas for new ones by creating a new issue, upload figures into the text box, and make comments and suggestions.
-- [Figure_outline.md](https://github.com/misomip/isomip-plus/blob/main/Figures.md) contains a summary list of figures; this will be modified as we make progress.
-- To contribute code, first fork this repository, then make your changes, and finally create a pull request back to the main repository to merge and share your work.
+- [Figure_outline.md](https://github.com/misomip/isomip-plus/blob/main/Figure_outline.md) contains a summary list of figures; this will be modified as we make progress.
+- To contribute code, first fork this repository, then make your changes (e.g. create new folder and upload a jupyter notebook) and finally create a pull request back to the main repository to merge and share your work.
 
 ### Virtual Hackathon Schedule:
 TBA
