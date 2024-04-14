@@ -18,6 +18,7 @@ Note: Hackathon zoom link, Overleaf and Model Data distributed privately.
 - download and unzip the model data
 - fork this repository 
 - clone your fork on your machine
+  
 You don't need to start from scratch: Xylar's plotting scripts have been (somewhat) converted to Jupyter Notebook form in [this folder](https://github.com/misomip/isomip-plus/blob/main/notebooks/general-plotting); alternatively there is a different method using xarray in [overturning-streamfunction](https://github.com/misomip/isomip-plus/blob/main/notebooks/overturning-streamfunction/OverturningStreamfunction.ipynb)
 
 In both of these notebooks you can modify the `baserepo` (where this repository is located on your machine) and `basedrive` (where the data is stored on your machine). This should allow you to open the files in a seamless way. 
