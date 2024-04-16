@@ -1,6 +1,7 @@
 # Figure outline
 Not finalised! To be determined later.
 - Experimental design (ice draft, bathymetry, side profile of temperature and salinity)
+- Ocean0 temperature structure to show different sized plumes/mixing?
 - Melt rate spatial distribution for Ocean0 (all experiments)
 - Tuning parameters $\Gamma_T$ , $\Gamma_S$ for each model in a table or bar chart
 - Warming area-averaged ocean melt rates and overturning stream function as a function of time, showing timescales for the change (line plots)
