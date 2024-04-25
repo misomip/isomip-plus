@@ -44,8 +44,9 @@ where `<<yourname>>` will be the name of the remote pointing to your fork and `<
   git commit -m "a message"
   git push <<yourname>>  melt_rate_plot
   ```
-  (this pushes your branch, melt_rate_plot, to your fork, `<<yourname>>`.)
-  On Github when you open your fork of the repository, click "Compare and make pull request" when prompted and follow the instructions. This requests the code changes to the main MISOMIP repository. Then Claire will look at it and approve it.
+  (this pushes your branch, melt_rate_plot, to your fork, `<<yourname>>`.) Here, XX is the file path to the file you changed, or you can use `.` to get all changes. Add a helpful message in "a message"!
+  
+Final step: On Github when you open your fork of the repository, click "Compare and make pull request" when prompted and follow the instructions. This requests the code changes to the main MISOMIP repository. Then Claire will look at it and approve it.
   
 You don't need to start from scratch: Xylar's plotting scripts have been (somewhat) converted to Jupyter Notebook form in [this folder](https://github.com/misomip/isomip-plus/blob/main/notebooks/general-plotting); alternatively there is a different method using xarray in [overturning-streamfunction](https://github.com/misomip/isomip-plus/blob/main/notebooks/overturning-streamfunction/OverturningStreamfunction.ipynb)
 
