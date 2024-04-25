@@ -29,10 +29,10 @@
     11. [Melt rate feedbacks - thermal/haline driving and friction velocity beneath ice shelf and contribution to melt rate](https://github.com/misomip/isomip-plus/issues/9) -> Claire 
     12. [A figure to show variation of models with their “typ” values/usage](https://github.com/misomip/isomip-plus/issues/10) -> Robin Smith + Chris
   
-    13. melt rate vs u* and melt rate vs DT -> Qin Zhou and Dave Gwyther
-    14. TYP vs COM for the same model -> Robin Smith,
-    15. focus on boundary layer cross section (y axis = distance from ice rather than ocean depth) -> can see temperature structure (to 5m grid resolution) -> Dave Gwyther
-    16. Thermal/haline/u* in supplementary -> Xylar Asay-Davis
+    13. [melt rate vs u* and melt rate vs DT](https://github.com/misomip/isomip-plus/issues/15) -> Qin Zhou and Dave Gwyther
+    14. [TYP vs COM for the same model](https://github.com/misomip/isomip-plus/issues/16) -> Robin Smith,
+    15. [focus on boundary layer cross section (y axis = distance from ice rather than ocean depth) -> can see temperature structure (to 5m grid resolution)](https://github.com/misomip/isomip-plus/issues/17) -> Dave Gwyther
+    16. [Thermal/haline/u* in supplementary](https://github.com/misomip/isomip-plus/issues/18) -> Xylar Asay-Davis
   
         Ideally submitted back by pull request by end of June.
 6. Write descriptions about each of the figures on Overleaf for the results section, especially figures that won't qualitatively change
