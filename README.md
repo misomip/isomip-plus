@@ -16,8 +16,36 @@ Note: Hackathon zoom link, Overleaf and Model Data distributed privately.
 
 ### Getting started:
 - download and unzip the model data
-- fork this repository 
-- clone your fork on your machine
+- fork this repository (by clicking on the "Fork" button in the right hand corner)
+- Click "Create Fork"
+- Click on the arrow next to Fork to get to your fork
+- Open your terminal and clone this repository on your machine
+
+```
+git clone git@github.com/misomip/isomip-plus.git
+```
+Add your fork as a remote (this will allow you to see this main branch and also your own fork).
+```
+git remote add <<yourname>> git@github.com/<<your-githubname>>/isomip-plus.git
+```
+where `<<yourname>>` will be the name of the remote pointing to your fork and `<<your-githubname>>` is your github username
+
+  Create a new branch:
+  ```
+  git branch melt_rate_plot
+  git checkout melt_rate_plot
+  ```
+  where melt_rate_plot is the name of your branch (it can be anything)
+  
+  make your changes to code, ideally by copying a notebook and then making the figures in the notebook (so that we each work on our own notebooks and avoid merge conflicts), then push it back up to your fork. There are some instructions for setting up a conda environment, and also style pointers in [Figure_guidelines](https://github.com/misomip/isomip-plus/blob/main/Figure_guidelines.md)
+  
+  ```
+  git add XX 
+  git commit -m "a message"
+  git push <<yourname>>  melt_rate_plot
+  ```
+  (this pushes your branch, melt_rate_plot, to your fork, `<<yourname>>`.)
+  On Github when you open your fork of the repository, click "Compare and make pull request" when prompted and follow the instructions. This requests the code changes to the main MISOMIP repository. Then Claire will look at it and approve it.
   
 You don't need to start from scratch: Xylar's plotting scripts have been (somewhat) converted to Jupyter Notebook form in [this folder](https://github.com/misomip/isomip-plus/blob/main/notebooks/general-plotting); alternatively there is a different method using xarray in [overturning-streamfunction](https://github.com/misomip/isomip-plus/blob/main/notebooks/overturning-streamfunction/OverturningStreamfunction.ipynb)
 
