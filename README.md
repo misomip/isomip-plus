@@ -22,7 +22,7 @@ Note: Hackathon zoom link, Overleaf and Model Data distributed privately.
 - Open your terminal and clone this repository on your machine
 
 ```
-git clone git@github.com/misomip/isomip-plus.git
+git clone git@github.com:misomip/isomip-plus.git
 ```
 Add your fork as a remote (this will allow you to see this main branch and also your own fork).
 ```
