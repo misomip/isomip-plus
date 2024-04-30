@@ -21,9 +21,9 @@
     3. [Melt rate spatial distribution for Ocean0](https://github.com/misomip/isomip-plus/issues/3) -> Ocean1 -> Xylar Asay-Davis
     4. [Tuning parameters for each model in a table or bar chart](https://github.com/misomip/isomip-plus/issues/4) + [top layer thickness/flux distribution](https://github.com/misomip/isomip-plus/issues/11)
     5. [Warming area-averaged ocean melt rates and overturning stream function as a function of time, showing timescales for the change (line plots)](https://github.com/misomip/isomip-plus/issues/5)
-    6. [Warming end state overturning and barotropic streamfunctions (all experiments?)](https://github.com/misomip/isomip-plus/issues/6) -> Chris Bull
+    6. [Warming end state overturning and barotropic streamfunctions (all experiments?)](https://github.com/misomip/isomip-plus/issues/6) -> Chris Bull (barotropic only)
     7. [Cooling area-averaged ocean melt rates and streamfunction strength (line plots, like in the warming)](https://github.com/misomip/isomip-plus/issues/5)
-    8. [Cooling end state overturning and barotropic streamfunctions (all experiments?)](https://github.com/misomip/isomip-plus/issues/6) -> Chris Bull
+    8. [Cooling end state overturning and barotropic streamfunctions (all experiments?)](https://github.com/misomip/isomip-plus/issues/6) -> Chris Bull (barotropic only)
     9. [Scaling between melt and circulation strength for warming and cooling? Scatter plots where each data point is one time](https://github.com/misomip/isomip-plus/issues/7) -> Nico Jourdain
     10. [Thermal or haline forcing at ice front vs melt rate - quadratic scaling?](https://github.com/misomip/isomip-plus/issues/8) -> Gustavo Marques
     11. [Melt rate feedbacks - thermal/haline driving and friction velocity beneath ice shelf and contribution to melt rate](https://github.com/misomip/isomip-plus/issues/9) -> Claire 
