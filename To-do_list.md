@@ -3,7 +3,7 @@
 1. Discuss draft figures (see [Figure_outline.md](https://github.com/misomip/isomip-plus/blob/main/Figure_outline.md) ), identify any missing analyses
 2. Check data - some assumptions were made when assigning the data paths e.g. versions. Please check [this list](https://github.com/misomip/isomip-plus/blob/main/notebooks/file-pointers/DataInformation.md). 
 3. Model description for each model/group (including references), following MOM6 Example that Gustavo wrote. Potentially the same models submitted by different groups can have some common sections.
-    1. COCO
+    1. COCO -> Kazuya Kusahara
     2. FVCOM -> Qin
     3. MITgcm-BAS - Yoshi
     4. MITgcm_BAS_Coupled - Yoshi
@@ -20,9 +20,9 @@
     2. [Ocean0 temperature structure ](https://github.com/misomip/isomip-plus/issues/12) -> Ocean1 -> Dave Gwyther
     3. [Melt rate spatial distribution for Ocean0](https://github.com/misomip/isomip-plus/issues/3) -> Ocean1 -> Xylar Asay-Davis
     4. [Tuning parameters for each model in a table or bar chart](https://github.com/misomip/isomip-plus/issues/4) + [top layer thickness/flux distribution](https://github.com/misomip/isomip-plus/issues/11)
-    5. [Warming area-averaged ocean melt rates and overturning stream function as a function of time, showing timescales for the change (line plots)](https://github.com/misomip/isomip-plus/issues/5)
+    5. [Warming area-averaged ocean melt rates and overturning stream function as a function of time, showing timescales for the change (line plots)](https://github.com/misomip/isomip-plus/issues/5) -> Chris to add new line colours for melt rate plots
     6. [Warming end state overturning and barotropic streamfunctions (all experiments?)](https://github.com/misomip/isomip-plus/issues/6) -> Chris Bull (barotropic only), Adele (overturning)
-    7. [Cooling area-averaged ocean melt rates and streamfunction strength (line plots, like in the warming)](https://github.com/misomip/isomip-plus/issues/5)
+    7. [Cooling area-averaged ocean melt rates and streamfunction strength (line plots, like in the warming)](https://github.com/misomip/isomip-plus/issues/5) -> Chris to add new line colours for melt rate plots
     8. [Cooling end state overturning and barotropic streamfunctions (all experiments?)](https://github.com/misomip/isomip-plus/issues/6) -> Chris Bull (barotropic only), Adele (overturning)
     9. [Scaling between melt and circulation strength for warming and cooling? Scatter plots where each data point is one time](https://github.com/misomip/isomip-plus/issues/7) -> Nico Jourdain
     10. [Thermal or haline forcing at ice front vs melt rate - quadratic scaling?](https://github.com/misomip/isomip-plus/issues/8) -> Gustavo Marques
@@ -35,7 +35,7 @@
     16. [Thermal/haline/u* in supplementary](https://github.com/misomip/isomip-plus/issues/18) -> Xylar Asay-Davis
     17. Shifted time axis spaghetti plots -> Claire
     18. hysteresis?
-    19. vertical profiles of T and S (different x positions, each corner of + sign) temp vs distance from ice (rather than depth)
+    19. vertical profiles of T and S (different x positions, each corner of + sign) temp vs distance from ice (rather than depth) -> Claire
   
         *Submit plots and code back to main by pull request by 30 June. Beginning of July writing hackathon!*
 6. Write descriptions about each of the figures on Overleaf for the results section, especially figures that won't qualitatively change
