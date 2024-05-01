@@ -37,7 +37,7 @@
     18. hysteresis?
     19. vertical profiles of T and S (different x positions, each corner of + sign) temp vs distance from ice (rather than depth)
   
-        Ideally submitted back by pull request by end of June. Beginning of July writing hackathon?
+        *Submit plots and code back to main by pull request by 30 June. Beginning of July writing hackathon!*
 6. Write descriptions about each of the figures on Overleaf for the results section, especially figures that won't qualitatively change
 7. Discuss the results, give feedback
 8. Someone to write the Introduction? -> Ben
