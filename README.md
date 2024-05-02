@@ -26,9 +26,15 @@ git clone git@github.com:misomip/isomip-plus.git
 ```
 Add your fork as a remote (this will allow you to see this main branch and also your own fork).
 ```
-git remote add <<yourname>> git@github.com/<<your-githubname>>/isomip-plus.git
+git remote add <<yourname>> git@github.com:<<your-githubname>>/isomip-plus.git
 ```
 where `<<yourname>>` will be the name of the remote pointing to your fork and `<<your-githubname>>` is your github username
+
+(If you cloned your fork rather than the main misomip repository above, your fork will be the origin, so to add this main repository, type
+```
+git remote add misomip git@github.com:misomip/isomip-plus.git
+```
+To get upstream changes from other people that have been merged into the misomip folder, type `git pull misomip`)
 
   Create a new branch:
   ```
