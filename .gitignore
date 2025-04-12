@@ -2,6 +2,10 @@
 *.png
 */.ipynbcheckpoints
 */*/.ipynb_checkpoints/
-
+*/.ipynb_checkpoints/*
 */*/*/.ipynb_checkpoints/
-
+.ipynb_checkpoints/*
+*.mp4
+*/*.mp4
+figures/.ipynb_checkpoints/*
+figures/.ipynb_checkpoints
